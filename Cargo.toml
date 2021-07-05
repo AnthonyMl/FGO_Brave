@@ -1,0 +1,6 @@
+[package]
+name = "fgo_brave"
+version = "0.1.0"
+authors = ["AnthonyMl <mladenov.anthony@gmail.com>"]
+
+[dependencies]
